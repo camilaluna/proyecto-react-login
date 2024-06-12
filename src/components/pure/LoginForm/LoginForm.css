@@ -48,12 +48,12 @@
 .wrapper .remember-forgot {
     display: flex;
     justify-content: space-between;
-    font-size: 14.5px;
+    font-size: 13px;
     margin: -15px 0 15px;
 }
 
 .remember-forgot label {
-    margin-left: 20px;
+    margin-left: 2px;
 }
 
 .remember-forgot label input {
@@ -64,7 +64,7 @@
 .remember-forgot a {
     color: #fff;
     text-decoration: none;
-    margin-right: 20px;
+    margin-right: 2px;
 }
 
 .remember-forgot a:hover {
@@ -90,4 +90,8 @@
     justify-content: center;
     font-size: 14.5px;
     margin-top: 10px;
+}
+
+.register-link a {
+    color: rgb(0, 0, 252);
 }
