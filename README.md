@@ -1,3 +1,7 @@
+# Proyecto de Login en React
+
+![image](https://github.com/camilaluna/proyecto-react-login/assets/39574800/bf737340-63b8-4893-868c-0f77b53747ac)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
